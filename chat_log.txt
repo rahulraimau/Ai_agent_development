@@ -1,0 +1,17 @@
+
+# ChatGPT Interaction Log
+
+Attempt 1:
+Prompt: "Generate 3 questions on photosynthesis"
+→ Output: Generic and not personalized
+→ Fix: Added user confidence input
+
+Attempt 2:
+Prompt: "Track user performance"
+→ Output: GPT forgot prior state
+→ Fix: Simulated memory via summary variable
+
+Attempt 3:
+Prompt: "Be friendly but clear"
+→ Output: Tone too casual
+→ Fix: Rebalanced tone for clarity and warmth
