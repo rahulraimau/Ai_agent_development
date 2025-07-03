@@ -16,7 +16,7 @@ assert api_key is not None, "❌ API key not loaded from apikey.env"
 llm = ChatOpenAI(
     temperature=0.7,
     model_name="gpt-3.5-turbo",
-    openai_api_key="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"
+    openai_api_key="api_key"
 )
 
 # Define prompts
